@@ -12,6 +12,8 @@ tests/**/bin/
 **/.vs/
 **/.idea/
 *.csproj
+# Track the hand-written test project; Unity-generated project files remain ignored.
+!tests/CoreChecks/CoreChecks.csproj
 *.sln
 *.user
 *.pidb
