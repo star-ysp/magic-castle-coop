@@ -1,0 +1,19 @@
+# Unity-generated caches and local state (including projects under game/).
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+tests/**/bin/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/TestResults/
+**/MemoryCaptures/
+**/.vs/
+**/.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+.DS_Store
