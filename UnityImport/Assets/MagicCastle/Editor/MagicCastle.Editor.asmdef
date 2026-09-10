@@ -1,0 +1,7 @@
+{
+  "name": "MagicCastle.Editor",
+  "rootNamespace": "MagicCastle.Editor",
+  "references": ["MagicCastle.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
