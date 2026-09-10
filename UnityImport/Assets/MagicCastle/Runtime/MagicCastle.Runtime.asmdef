@@ -1,0 +1,6 @@
+{
+  "name": "MagicCastle.Runtime",
+  "rootNamespace": "MagicCastle",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}
